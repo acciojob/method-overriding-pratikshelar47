@@ -9,7 +9,7 @@ public class Main {
 }
 class A{
     public String meth(){
-        return "Hi. from class A";
+        return  "Method is overridden in Extended class B";
     }
 }
 class B extends A{
